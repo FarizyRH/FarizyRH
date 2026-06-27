@@ -63,7 +63,7 @@ I am currently focused on improving my ability to build better backend systems, 
 
 [![GitHub](https://img.shields.io/badge/GitHub-FarizyRH-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/FarizyRH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/farizy-rahman-hidayat-6950b4310/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:[farizyrh@gmail.com])
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:farizyrh@gmail.com)
 
 ---
 
